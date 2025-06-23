@@ -5,6 +5,9 @@ using namespace std;
 
 #include "ItemToPurchase.h"
 
+//<< "Click on the play button with a small bug on it on the left and go bottom of the screen. click on terminal and answer the question";
+
+
 int main() {
 
 ItemToPurchase item1;
